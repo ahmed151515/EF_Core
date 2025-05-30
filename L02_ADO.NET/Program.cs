@@ -46,8 +46,9 @@ namespace L02_ADO.NET
 			//Console.WriteLine(settings.GetSection("constr").Value);
 			var constr = settings.GetSection("constr").Value;
 
-			ExecuteRawSql(constr);
 			Console.WriteLine("---------Before command--------");
+			ExecuteRawSql(constr);
+
 			//ExecuteInsertRawSql(constr);
 			//ExecuteInsertExecuteScaler(constr);
 			//ExecuteInsertStoredProcedure(constr);
