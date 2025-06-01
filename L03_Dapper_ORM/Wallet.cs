@@ -1,4 +1,4 @@
-﻿namespace L02_ADO.NET
+﻿namespace L03_Dapper_orm
 {
 	public class Wallet
 	{

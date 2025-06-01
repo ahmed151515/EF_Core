@@ -5,7 +5,7 @@ using System.Data;
 using System.Transactions;
 
 
-namespace L02_ADO.NET
+namespace L03_Dapper_orm
 {
 	internal class Program
 	{
@@ -17,7 +17,7 @@ namespace L02_ADO.NET
 
 			//Console.WriteLine(settings.GetSection("constr").Value);
 			var constr = settings.GetSection("constr").Value;
-			Console.WriteLine("---------Before command--------");
+			//Console.WriteLine("---------Before command--------");
 
 			ExecuteRawSql(constr);
 
@@ -25,10 +25,10 @@ namespace L02_ADO.NET
 			//ExecuteInsertReturnIdentity(constr);
 			//ExecuteUpdateRawSql(constr);
 			//ExecuteDeleteRawSql(constr);
-			DapperAndTransactions(constr);
+			//DapperAndTransactions(constr);
 
-			Console.WriteLine("---------After command--------");
-			ExecuteRawSql(constr);
+			//Console.WriteLine("---------After command--------");
+			//ExecuteRawSql(constr);
 
 			//ExecuteMultipleQueries(constr);
 
