@@ -1,4 +1,5 @@
-﻿using NHibernate;
+﻿using model;
+using NHibernate;
 using NHibernate.Mapping.ByCode;
 using NHibernate.Mapping.ByCode.Conformist;
 

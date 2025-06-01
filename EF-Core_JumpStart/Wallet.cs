@@ -1,8 +1,8 @@
-﻿namespace model
+﻿namespace Model
 {
 	public class Wallet
 	{
-		// must become virtual
+
 		public virtual int Id { get; set; }
 		public virtual string? Holder { get; set; }
 		public virtual decimal? Balance { get; set; }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Configuration;
+using model;
 using NHibernate;
 using NHibernate.Cfg;
 using NHibernate.Cfg.MappingSchema;
@@ -117,7 +118,7 @@ namespace L04_NHibernate
 
 		private static void InsertWallet(ISession session)
 		{
-			var wallet = new Wallet { Holder = "test 8", Balance = 40 };
+			var wallet = new Wallet { Holder = "test 9", Balance = 40 };
 
 			session.Save(wallet);
 			Console.WriteLine("------");
