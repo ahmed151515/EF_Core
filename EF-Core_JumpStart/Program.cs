@@ -9,7 +9,7 @@ namespace EF_Core_JumpStart
 		{
 
 
-			//RetrieveData();
+			RetrieveData();
 			//RetrieveDataSingleItem();
 			//QueryData();
 
@@ -19,7 +19,7 @@ namespace EF_Core_JumpStart
 			//UpdateWallet();
 			//DeleteWallet();
 
-			ImplementTransactions();
+			//ImplementTransactions();
 
 
 		}
@@ -48,7 +48,7 @@ namespace EF_Core_JumpStart
 
 		private static void InsertWallet()
 		{
-			var wallet = new Wallet { Holder = "test 12", Balance = 51 };
+			var wallet = new Wallet { Holder = "test 13", Balance = 51 };
 
 			using var context = new AppDbContext();
 
