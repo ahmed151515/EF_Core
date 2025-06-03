@@ -1,5 +1,4 @@
-﻿
-using Model;
+﻿using Model;
 
 namespace EF_Core_JumpStart
 {

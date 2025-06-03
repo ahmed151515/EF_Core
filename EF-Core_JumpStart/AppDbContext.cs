@@ -16,7 +16,7 @@ namespace EF_Core_JumpStart
 			var constr = new ConfigurationBuilder()
 				.AddJsonFile("appsettings.json").Build()
 				.GetSection("constr").Value;
-			
+
 			optionsBuilder.UseSqlServer(constr);
 		}
 	}
