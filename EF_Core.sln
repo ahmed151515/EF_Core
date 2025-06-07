@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L03_Dapper_ORM", "L03_Dappe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L04_NHibernate", "L04_NHibernate\L04_NHibernate.csproj", "{49DAF54C-C910-4652-A331-834E90FE93EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L05_EF-Core_JumpStart", "EF-Core_JumpStart\L05_EF-Core_JumpStart.csproj", "{E964A265-6667-4765-9D7F-50093F2CA297}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L05_EF-Core_JumpStart", "L05_EF-Core_JumpStart\L05_EF-Core_JumpStart.csproj", "{E964A265-6667-4765-9D7F-50093F2CA297}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L06_DbContext", "L06_DbContext\L06_DbContext.csproj", "{710C335F-98C0-443F-9F16-1FBF7A80C485}"
 EndProject
