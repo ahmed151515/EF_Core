@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L09_Entity_Types_And_Mappin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L10_EF_Migration", "L10_EF_Migration\L10_EF_Migration.csproj", "{14821A88-7E05-4A46-9CC2-2261C08DC930}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L11_Migration_Part 02_Relationships", "L11_Migration_Part 02_Relationships\L11_Migration_Part 02_Relationships.csproj", "{A64A7A13-70FF-437A-ADB1-5AD1502A095C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,8 +65,15 @@ Global
 		{14821A88-7E05-4A46-9CC2-2261C08DC930}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14821A88-7E05-4A46-9CC2-2261C08DC930}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14821A88-7E05-4A46-9CC2-2261C08DC930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64A7A13-70FF-437A-ADB1-5AD1502A095C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64A7A13-70FF-437A-ADB1-5AD1502A095C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64A7A13-70FF-437A-ADB1-5AD1502A095C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64A7A13-70FF-437A-ADB1-5AD1502A095C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {241D0C0A-2DF8-48FC-B24C-19A4D4A684C7}
 	EndGlobalSection
 EndGlobal
