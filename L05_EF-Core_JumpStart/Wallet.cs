@@ -1,4 +1,4 @@
-﻿namespace Model
+﻿namespace EF_Core_JumpStart
 {
 	public class Wallet
 	{

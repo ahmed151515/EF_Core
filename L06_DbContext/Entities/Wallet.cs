@@ -1,4 +1,4 @@
-﻿namespace Entities
+﻿namespace L06_DbContext.Entities
 {
 	public class Wallet
 	{

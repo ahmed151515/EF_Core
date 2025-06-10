@@ -1,6 +1,4 @@
-﻿using Model;
-
-namespace EF_Core_JumpStart
+﻿namespace EF_Core_JumpStart
 {
 	internal class Program
 	{

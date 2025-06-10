@@ -1,5 +1,4 @@
 ﻿using Microsoft.Extensions.Configuration;
-using model;
 using NHibernate;
 using NHibernate.Cfg;
 using NHibernate.Cfg.MappingSchema;

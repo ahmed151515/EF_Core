@@ -1,4 +1,4 @@
-﻿namespace model
+﻿namespace L02_ADO.NET
 {
 	public class Wallet
 	{

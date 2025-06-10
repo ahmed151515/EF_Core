@@ -1,4 +1,4 @@
-﻿namespace model
+﻿namespace L04_NHibernate
 {
 	public class Wallet
 	{

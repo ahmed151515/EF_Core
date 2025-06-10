@@ -1,4 +1,4 @@
-﻿using Entities;
+﻿using L06_DbContext.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

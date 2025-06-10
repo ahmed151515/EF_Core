@@ -1,8 +1,8 @@
-﻿using Entities;
+﻿using L06_DbContext.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
-namespace Data
+namespace L06_DbContext.Data
 {
 	public class InternalConfigurationContext : DbContext
 	{

@@ -1,6 +1,5 @@
 ﻿using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
-using model;
 using System.Data;
 
 namespace L02_ADO.NET

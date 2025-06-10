@@ -1,4 +1,4 @@
-﻿namespace model
+﻿namespace L03_Dapper_ORM
 
 {
 	public class Wallet
