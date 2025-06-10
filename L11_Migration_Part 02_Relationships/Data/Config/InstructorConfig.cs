@@ -32,7 +32,7 @@ namespace L11_Migration_Part_02_Relationships.Data.Config
 				new Instructor { Id = 2, FName = "Yasmeen", LName = "Yasmeen",OfficeId=2},
 				new Instructor { Id = 3, FName = "Khalid", LName = "Hassan",OfficeId=3},
 				new Instructor { Id = 4, FName = "Nadia", LName = "Ali", OfficeId=4},
-				new Instructor { Id = 5, FName = "Ahmed", LName = "Abdullah",OfficeId=5},
+				new Instructor { Id = 5, FName = "Omar", LName = "Ibrahim",OfficeId=5},
 			};
 
 	}
