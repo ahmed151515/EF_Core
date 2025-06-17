@@ -1,4 +1,4 @@
-﻿namespace L13_Mapping_Strategies.BaseTypeDefaultMapping.Entities
+﻿namespace L13_Mapping_Strategies.Entities
 {
 	public class Instructor
 	{

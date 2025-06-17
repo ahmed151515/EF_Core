@@ -1,8 +1,8 @@
-﻿using L13_Mapping_Strategies.BaseTypeDefaultMapping.Entities;
+﻿using L13_Mapping_Strategies.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace L13_Mapping_Strategies.BaseTypeDefaultMapping.Data.Config
+namespace L13_Mapping_Strategies.Data.Config
 {
 	public class OfficeConfig : IEntityTypeConfiguration<Office>
 	{

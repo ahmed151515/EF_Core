@@ -1,4 +1,4 @@
-﻿namespace L13_Mapping_Strategies.BaseTypeDefaultMapping.Entities
+﻿namespace L13_Mapping_Strategies.Entities
 {
 	public class Section
 	{
@@ -19,7 +19,7 @@
 		public int ScheduleId { get; set; }
 		public Schedule Schedule { get; set; }
 
-		public ICollection<Particpant> Particpants { get; set; } = new List<Particpant>();
+		public ICollection<Participant> Particpants { get; set; } = new List<Participant>();
 
 
 	}

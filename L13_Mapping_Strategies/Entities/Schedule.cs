@@ -1,6 +1,6 @@
-﻿using L13_Mapping_Strategies.BaseTypeDefaultMapping.Enums;
+﻿using L13_Mapping_Strategies.Enums;
 
-namespace L13_Mapping_Strategies.BaseTypeDefaultMapping.Entities
+namespace L13_Mapping_Strategies.Entities
 {
 	public class Schedule
 	{

@@ -1,4 +1,4 @@
-﻿namespace L13_Mapping_Strategies.BaseTypeDefaultMapping.Enums
+﻿namespace L13_Mapping_Strategies.Enums
 {
 	public enum ScheduleEnum
 	{

@@ -1,12 +1,12 @@
-﻿using L13_Mapping_Strategies.BaseTypeDefaultMapping.Entities;
+﻿using L13_Mapping_Strategies.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace L13_Mapping_Strategies.BaseTypeDefaultMapping.Data.Config
+namespace L13_Mapping_Strategies.Data.Config
 {
-	public class ParticpantConfig : IEntityTypeConfiguration<Particpant>
+	public class ParticipantConfig : IEntityTypeConfiguration<Participant>
 	{
-		public void Configure(EntityTypeBuilder<Particpant> builder)
+		public void Configure(EntityTypeBuilder<Participant> builder)
 		{
 			builder.HasKey(c => c.Id);
 			builder.Property(p => p.Id).ValueGeneratedNever();
@@ -17,7 +17,7 @@ namespace L13_Mapping_Strategies.BaseTypeDefaultMapping.Data.Config
 
 
 
-			builder.ToTable("Particpants");
+			builder.ToTable("Participants");
 		}
 
 
