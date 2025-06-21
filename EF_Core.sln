@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{200B1FB3-DF4B-4F1D-81C7-BAD19205AC43}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		.mcp.json = .mcp.json
 		appsettings.json = appsettings.json
 	EndProjectSection
 EndProject
@@ -32,6 +33,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_Mapping_Strategies", "L13_Mapping_Strategies\L13_Mapping_Strategies.csproj", "{61B9FBC9-606D-4057-BA35-EBA90AD5C392}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L14_Create_And_Drop_API", "L14_Create_And_Drop_API\L14_Create_And_Drop_API.csproj", "{F89EEBB6-43A5-41DA-A7E7-26101F11F223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L15_Query_Data_Part_1", "L15_Query_Data_Part_1\L15_Query_Data_Part_1.csproj", "{37A9470E-9222-4B1B-9C02-AB84A2B8E032}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -187,6 +190,18 @@ Global
 		{F89EEBB6-43A5-41DA-A7E7-26101F11F223}.Release|x64.Build.0 = Release|Any CPU
 		{F89EEBB6-43A5-41DA-A7E7-26101F11F223}.Release|x86.ActiveCfg = Release|Any CPU
 		{F89EEBB6-43A5-41DA-A7E7-26101F11F223}.Release|x86.Build.0 = Release|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Debug|x64.Build.0 = Debug|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Debug|x86.Build.0 = Debug|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Release|x64.ActiveCfg = Release|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Release|x64.Build.0 = Release|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Release|x86.ActiveCfg = Release|Any CPU
+		{37A9470E-9222-4B1B-9C02-AB84A2B8E032}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
