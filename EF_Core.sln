@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L17_Raw_SQL_Query", "L17_Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L18_Save_Data", "L18_Save_Data\L18_Save_Data.csproj", "{5D7A130A-9D20-428E-B148-4AF65FAA3448}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L19_Interceptors", "L019_Interceptors\L19_Interceptors.csproj", "{D407424F-559B-44CC-B474-2DF0F934F93F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -244,6 +246,18 @@ Global
 		{5D7A130A-9D20-428E-B148-4AF65FAA3448}.Release|x64.Build.0 = Release|Any CPU
 		{5D7A130A-9D20-428E-B148-4AF65FAA3448}.Release|x86.ActiveCfg = Release|Any CPU
 		{5D7A130A-9D20-428E-B148-4AF65FAA3448}.Release|x86.Build.0 = Release|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Debug|x64.Build.0 = Debug|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Debug|x86.Build.0 = Debug|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Release|x64.ActiveCfg = Release|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Release|x64.Build.0 = Release|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Release|x86.ActiveCfg = Release|Any CPU
+		{D407424F-559B-44CC-B474-2DF0F934F93F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
