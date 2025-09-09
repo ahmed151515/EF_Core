@@ -1,7 +1,7 @@
 ﻿using L19_Interceptors.Data;
 using L19_Interceptors.Helpers;
 
-namespace L019_Interceptors
+namespace L19_Interceptors
 {
 	internal class Program
 	{
